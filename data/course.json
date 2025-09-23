@@ -1,0 +1,51 @@
+{
+  "term": "January IAP",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "6e6ceb58-bfdf-20a4-e936-e8447830f01f",
+  "instructors": {
+    "content": [
+      "a9f7d311-1163-cd82-45ca-7263ace4103a",
+      "b749cd83-84ec-4a63-4693-8bd34258372c",
+      "5be9d0e4-1a17-f421-abd7-8c2360357049"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fecdf320-8655-4546-b8f8-e3563528239e",
+    "website": "6-092-introduction-to-programming-in-java-january-iap-2010"
+  },
+  "course_title": "Introduction to Programming in Java",
+  "course_description": "This course is an introduction to software engineering, using the Java\u2122 programming language. It covers concepts useful to 6.005. Students will learn the fundamentals of Java. The focus is on developing high quality, working software that solves real problems.\n\nThe course is designed for students with some programming experience, but if you have none and are motivated you will do fine. Students who have taken 6.005 should not take this course. Each class is composed of one hour of lecture and one hour of assisted lab work.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.092",
+  "course_image_thumbnail": {
+    "content": "d24a28e6-2c2d-9864-b4c9-9b44e99cfb30",
+    "website": "6-092-introduction-to-programming-in-java-january-iap-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "site_uid": "c53f3ceb-3edc-49ad-8f24-2c0d7d5fc18e",
+  "site_short_id": "6.092-january-iap-2010",
+  "site_url_path": "courses/6-092-introduction-to-programming-in-java-january-iap-2010",
+  "title": "Course Metadata"
+}
