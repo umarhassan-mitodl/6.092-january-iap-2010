@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the assignments for the course, supporting files,
   and a special set of assignment files that can be annotated.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

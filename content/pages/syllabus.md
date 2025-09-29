@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, editors, and installing Java and Eclipse.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -42,20 +44,20 @@ To write programs, you need a piece of software called an editor. They come in t
 
 A source code editor is a program for editing text, like a word processor, but it has features which make it easier to read and write computer programs. An advantage of using a plain source code editor is that they are usually lightweight applications that are easy to learn and use. Additionally, the editors typically support many programming languages, so you can use the same tool for all your work. The disadvantage is that you will need to use the command line to run the compiler, and to organize larger projects.
 
-For Windows, some popular source code editors are {{% resource_link "5cb10f88-115d-40be-a497-17bb34ca4851" "SciTE" %}}, {{% resource_link "34ed1bee-7192-4854-b9cc-41cae325def0" "UltraEdit" %}}, {{% resource_link "f8ecd23a-8eca-4316-a816-bfd0f7497ccb" "Zeus" %}} ({{% resource_link "056dc2c2-de32-42f9-bd20-8a9df2fd7e29" "old free version" %}}), or {{% resource_link "18c5dcfa-b18d-4919-a506-8dd62610f771" "jEdit" %}}. Mac users might want to look at {{% resource_link "a4506ad2-5e68-4055-b1d9-62766ec6f14c" "TextMate" %}}, {{% resource_link "5acb2857-8986-40dd-a393-f0d8e60ec2d3" "SubEthaEdit" %}} ({{% resource_link "056dc2c2-de32-42f9-bd20-8a9df2fd7e29" "old free version" %}}), {{% resource_link "56a79e24-491b-4589-b2c2-8a1714af6853" "TextWrangler" %}}, or {{% resource_link "18c5dcfa-b18d-4919-a506-8dd62610f771" "jEdit" %}}. (Note: some of these are trial versions of software that you need to purchase.)
+For Windows, some popular source code editors are [SciTE](http://www.scintilla.org/SciTE.html), [UltraEdit](http://www.ultraedit.com/products/ultraedit.html), [Zeus](http://www.zeusedit.com/) ([old free version](http://www.codingmonkeys.de/subethaedit/old/)), or [jEdit](http://www.jedit.org/). Mac users might want to look at [TextMate](http://macromates.com/), [SubEthaEdit](http://www.codingmonkeys.de/subethaedit/) ([old free version](http://www.codingmonkeys.de/subethaedit/old/)), [TextWrangler](http://www.barebones.com/products/TextWrangler/), or [jEdit](http://www.jedit.org/). (Note: some of these are trial versions of software that you need to purchase.)
 
 ### Integrated Development Environments (IDEs)
 
-Most professional Java developers use an integrated development environment (IDE), which combines a source code editor with other tools for software development. They make it easy to find and correct errors, and to accomplish tasks through a graphical interface, instead of the command line. In this class, we recommend using {{% resource_link "b531f5bf-8655-4c74-8543-c111b99acea8" "Eclipse" %}}. Other popular IDEs for Java include {{% resource_link "e0c7b7fb-c105-42af-93e0-494b3f05a427" "NetBeans" %}} and {{% resource_link "689e1434-0f45-4660-a34f-890e6a4d5e3a" "IntelliJ IDEA" %}}.
+Most professional Java developers use an integrated development environment (IDE), which combines a source code editor with other tools for software development. They make it easy to find and correct errors, and to accomplish tasks through a graphical interface, instead of the command line. In this class, we recommend using [Eclipse](http://www.eclipse.org/). Other popular IDEs for Java include [NetBeans](http://netbeans.org/) and [IntelliJ IDEA](http://www.jetbrains.com/idea/).
 
 Windows
 -------
 
 ### Install the Sun Java 6 JDK
 
-You want to install the Java Standard Edition (SE) development kit (JDK). You can find this through Sun's {{% resource_link "9b3520da-b95e-4a3b-92b8-0ca2f0b44d2f" "Java download site" %}}, but follow these directions for the direct link:
+You want to install the Java Standard Edition (SE) development kit (JDK). You can find this through Sun's [Java download site](http://java.sun.com/javase/downloads/index.jsp), but follow these directions for the direct link:
 
-1.  Go to the {{% resource_link "6942f041-9dfc-48ff-bcea-c0d7da90d6f4" "Java SE JDK" %}} download page.
+1.  Go to the [Java SE JDK](http://java.sun.com/javase/downloads/widget/jdk6.jsp) download page.
 2.  On the left side, under Platform, select Windows.
 3.  Click the Download button.
 4.  Click the "Skip this step" link at the bottom of the dialog box that pops up.
@@ -64,9 +66,9 @@ You want to install the Java Standard Edition (SE) development kit (JDK). You ca
 
 ### Install Eclipse
 
-You want the Eclipse IDE for Java developers. You can find this on the {{% resource_link "53710568-2157-4645-a766-96e062b452d1" "Eclipse download site" %}}, but follow these directions for the direct link:
+You want the Eclipse IDE for Java developers. You can find this on the [Eclipse download site](http://www.eclipse.org/downloads/), but follow these directions for the direct link:
 
-1.  {{% resource_link "53710568-2157-4645-a766-96e062b452d1" "Download the Eclipse IDE for Java Developers" %}}.
+1.  [Download the Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/).
 2.  Open the zip file that you downloaded. It contains a single folder named eclipse.
 3.  Drag and drop the eclipse folder into C:\\Program Files, and perhaps rename it Eclipse. You can actually put the folder anywhere, but C:\\Program Files is the typical location.
 4.  Start Eclipse by double clicking on eclipse.exe.
@@ -79,7 +81,7 @@ Mac OS X comes with the Java development tools. Run Software Update to ensure th
 
 ### Install Eclipse
 
-1.  {{% resource_link "53710568-2157-4645-a766-96e062b452d1" "Download the Eclipse IDE for Java Developers" %}}.
+1.  [Download the Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/).
 2.  Open the archive file that you downloaded (Safari may have expanded it automatically for you).
 3.  Drag and drop the eclipse folder anywhere you want it (your Desktop may be a good place).
 4.  Run Eclipse by double clicking the Eclipse application inside the eclipse folder.
