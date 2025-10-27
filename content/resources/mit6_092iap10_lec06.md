@@ -6,8 +6,6 @@ description: 'Lecture presentation on programming in Java. Topics include: good 
 file: /courses/6-092-introduction-to-programming-in-java-january-iap-2010/2405ab6df66c95de7bb956f9b3329677_MIT6_092IAP10_lec06.pdf
 file_size: 166021
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

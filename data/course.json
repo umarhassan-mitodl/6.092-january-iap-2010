@@ -30,7 +30,6 @@
     "website": "6-092-introduction-to-programming-in-java-january-iap-2010"
   },
   "course_title": "Introduction to Programming in Java",
-  "hide_download": true,
   "course_description": "This course is an introduction to software engineering, using the Java\u2122 programming language. It covers concepts useful to 6.005. Students will learn the fundamentals of Java. The focus is on developing high quality, working software that solves real problems.\n\nThe course is designed for students with some programming experience, but if you have none and are motivated you will do fine. Students who have taken 6.005 should not take this course. Each class is composed of one hour of lecture and one hour of assisted lab work.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
   "department_numbers": [
     "6"
@@ -41,7 +40,6 @@
     "content": "d24a28e6-2c2d-9864-b4c9-9b44e99cfb30",
     "website": "6-092-introduction-to-programming-in-java-january-iap-2010"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Programming Assignments"
